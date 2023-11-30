@@ -1,5 +1,5 @@
 CCTV-1 综合,https://livear.cgtn.com/1000a/prog_index.m3u8
-CCTV-2 财经,
+CCTV-2 财经,https://livees.cgtn.com/1000e/prog_index.m3u8
 CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
 CCTV-4 中文国际,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 CCTV-5 体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
