@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",CCTV-1 不累
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+hhttp://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV-2 美国
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV-3 中国
